@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-jain2003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
+  <a href="https://x.com/coding_pj" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
   <a href="mailto:pratyushjain1000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square" alt="Email"></a>
   <a href="https://github.com/ultimateebeast?tab=followers"><img src="https://img.shields.io/github/followers/ultimateebeast?label=Follow&style=social" alt="GitHub followers"></a>
 </p>
@@ -69,7 +69,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/pratyush-jain2003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat-square" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourhandle" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
+  <a href="https://x.com/coding_pj" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&style=flat-square" alt="Twitter"></a>
   <a href="mailto:pratyushjain1000@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?logo=gmail&style=flat-square" alt="Email"></a>
 </p>
 
