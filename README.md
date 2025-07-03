@@ -64,7 +64,7 @@
 | ----------------- | ----------------------------------------------| -------------------------- | -------------------------------------------- |
 | **PathCrafter**   | Interactive pathfinding visualizer             | C++, SFML                  | [GitHub](https://github.com/ultimateebeast/PathCrafter)       |
 | **Text-to-Audio** | Convert text to audio with AI-generated voices | Python, TensorFlow         | [GitHub](https://github.com/ultimateebeast/text-to-audio)     |
-| **PixelPerfect**  | Figma to pixel-perfect React converter          | React, Tailwind, Next.js   | [GitHub](https://github.com/ultimateebeast/PixelPerfect)      |
+| **Chess**  | Chess - Game        | HTMl, Css, JavaScript   | [GitHub](https://github.com/ultimateebeast/chess-game)      |
 
 ---
 
